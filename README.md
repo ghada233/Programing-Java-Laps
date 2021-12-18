@@ -7,3 +7,4 @@ Student slide lap programming 1:
 
 [Students_CS111.pdf](https://github.com/ghada233/Programing-Java-Laps/files/7739196/Students_CS111.pdf)
 
+Student slide lap programming 2:
